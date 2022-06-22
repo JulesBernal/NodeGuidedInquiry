@@ -1,0 +1,62 @@
+[
+    {
+        "id":   "015",
+        "name": "June",
+        "salary": "$413,000",
+        "department": "Wind Turbine"
+    },
+    {
+        "id":   "016",
+        "name": "Rose",
+        "salary": "$536,000",
+        "department": "HR"
+    }, 
+    {
+        "id":   "017",
+        "name": "Dave",
+        "salary": "$216,314,000,000,000,000,000,000,000",
+        "department": "Sales"
+    },
+    {
+        "id":   "018",
+        "name": "Jade",
+        "salary": "$93,000,000,000",
+        "department": "Foreign Networking"
+    }, 
+    {
+        "id":   "020",
+        "name": "Jake",
+        "salary": "$1,025,000",
+        "department": "Custom Relations"
+    },
+    {
+        "id":   "021",
+        "name": "Roxy",
+        "salary": "$8,193,536",
+        "department": "Technology"
+    }, 
+    {
+        "id":   "022",
+        "name": "Dirk",
+        "salary": "$111,111",
+        "department": "Administration"
+    },
+    {
+        "id":   "019",
+        "name": "Jane",
+        "salary": "$413,000",
+        "department": "Executive"
+    },
+    {
+        "id":   "002",
+        "name": "Calliope",
+        "salary": "$1,025,000",
+        "department": "Administration"
+    },
+    {
+        "id":   "001",
+        "name": "Caliborn",
+        "salary": "$1,025,000",
+        "department": "Administration"
+    }
+]
